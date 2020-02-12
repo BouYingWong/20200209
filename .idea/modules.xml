@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/20200209.iml" filepath="$PROJECT_DIR$/.idea/20200209.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dependence/myshop-dependencies.iml" filepath="$PROJECT_DIR$/Dependence/myshop-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commons/myshop-tools.iml" filepath="$PROJECT_DIR$/Commons/myshop-tools.iml" />
+    </modules>
+  </component>
+</project>
